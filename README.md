@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🧠 I'm curious and like to learn new things.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helena-antoniadis-290582/)
-- 🧘‍♀️ Beyond coding, I am a: Yoga practitioner, Chaï Latte lover, acting amateur and fashion sensitive.
+- 🧘‍♀️ Beyond coding, I am a: Yoga practitioner, Chaï Latte lover, acting amateur and fashion conscious.
 
 <br />
 
