@@ -19,5 +19,5 @@
 -	EDA on real dataset of customer sessions to extract meaningful insights
 -	Coding of a memory based recommender system with collaborative filtering using the cosine similarity
 -	Analyse past user sessions to understand behaviour and recommend complementary product.
-
+[Streamlit of the Project](https://lewagon-1050-ecommerce.streamlit.app/)
 
