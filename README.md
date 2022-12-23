@@ -4,11 +4,11 @@
 
 # :woman_technologist: About me
 
-- 😄 Pronouns: she/her,
-- 🌎 I live in London 🇬🇧, I'm from Paris 🇫🇷 and my heart is spanish 🇪🇸 and greek 🇬🇷 ,
-- 🌱 I’m new python coder, started in summer '22,
-- 👯 I’m looking to collaborate on new projects,
-- 🧠 I'm curious and like to learn new things,
+- 😄 Pronouns: she/her
+- 🌎 I live in London 🇬🇧, I'm from Paris 🇫🇷 and my heart is spanish 🇪🇸 and greek 🇬🇷 
+- 🌱 I’m new python coder, started in summer '22
+- 👯 I’m looking to collaborate on new projects
+- 🧠 I'm curious and like to learn new things
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helena-antoniadis-290582/)
 - 🧘‍♀️ Beyond coding, I am a: Yoga practitioner, Chaï Latte lover, acting amateur and fashion conscious.
 
