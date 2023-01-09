@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: she/her
 - 🌎 I live in London 🇬🇧, I'm from Paris 🇫🇷 with my heart been spanish 🇪🇸 and greek 🇬🇷 
-- 🌱 I’m new python coder, started in summer '22
+- 🌱 I’m new python coder, started in summer '223
 - 👯 I’m looking to collaborate on new projects
 - 🧠 I'm curious and like to learn new things
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/helena-antoniadis-290582/)
