@@ -15,9 +15,9 @@
 <br />
 
 # 📝 Recent Projects
-[Build recommendation systems for eCommerce retailer to increase conversion rate and UPT :](https://github.com/sailormoonvicky/eCommerce)<br>
--	EDA on real dataset of customer sessions to extract meaningful insights
--	Coding of a memory based recommender system with collaborative filtering using the cosine similarity
--	Analyse past user sessions to understand behaviour and recommend complementary product.<br>
+[	Developed recommendation systems for an eCommerce retailer to improve conversion rates and units per transaction:](https://github.com/sailormoonvicky/eCommerce)<br>
+-	Conducted exploratory data analysis on 285 million customer session events to identify meaningful insights and design recommendations accordingly,
+-	Implemented a memory-based recommender system using content and collaborative filtering techniques with cosine similarity,
+-	Analysed past user sessions to understand customer behavior and used this information to recommend complementary products.<br>
 [Streamlit of the Project](https://lewagon-1050-ecommerce.streamlit.app/)
 
